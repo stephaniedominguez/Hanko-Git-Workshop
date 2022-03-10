@@ -79,7 +79,7 @@
    * `\n`
 
 * Want to hear a joke about documentation?
-   * It's not done yet.
+   * It's not done yet!
 
 * Scary SQL scripts give me the heebie-DBs.
 
